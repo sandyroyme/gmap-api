@@ -1,0 +1,59 @@
+{
+    "features": [
+      {
+        "type": "Location",
+        "properties": {
+          "LOCATION_ID":1,
+          "NAME": "Bondi Beach"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-33.890542,151.274856]
+        }
+      },
+      {
+        "type": "Location",
+        "properties": {
+          "LOCATION_ID":2,
+          "NAME": "Coogee Beach"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-33.923036,151.259052]
+        }
+      },
+      {
+        "type": "Location",
+        "properties": {
+          "LOCATION_ID":3,
+          "NAME": "Cronulla Beach"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-34.028249,151.157507]
+        }
+      },
+      {
+        "type": "Location",
+        "properties": {
+          "LOCATION_ID":4,
+          "NAME": "Manly Beach"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-33.80010128657071,151.28747820854187]
+        }
+      },
+      {
+        "type": "Location",
+        "properties": {
+          "LOCATION_ID":5,
+          "NAME": "Maroubra Beach"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-33.950198,151.259302]
+        }
+      }
+]
+  }
